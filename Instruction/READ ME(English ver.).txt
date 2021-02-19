@@ -1,0 +1,2 @@
+1. Practiced VM Translator using information on "nand2tetris" website.
+(URL: https://www.nand2tetris.org/ )

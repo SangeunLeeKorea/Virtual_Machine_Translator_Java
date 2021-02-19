@@ -1,0 +1,2 @@
+1. nand2tetris 사이트를 기반으로 VM Translator를 Java 언어로 완성하였음
+(사이트 주소: https://www.nand2tetris.org/ )
